@@ -18,4 +18,5 @@ Feature: The notifications matcher
     | chained     |
     | default     |
     | delayed     |
+    | guarded     |
     | immediately |
